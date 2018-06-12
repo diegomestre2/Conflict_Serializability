@@ -1,4 +1,4 @@
-# conflito
-Teste de Conflitos de Seriabilidade
+# Testing Serializability with Precedence Graph (Database System Transaction)
+Serializability is used to keep the data in the data item in a consistent state. Serializability is a property of a transaction schedule. It relates to the isolation property of a database transaction.
 
-Trabalho realizado na disciplina de Gerenciamento de Dados Distribuidos.
+The source code hereby defines an algorithm to identify Conflict Serializability.
